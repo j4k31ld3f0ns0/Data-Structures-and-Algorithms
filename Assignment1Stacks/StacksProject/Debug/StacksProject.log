@@ -1,0 +1,26 @@
+﻿  StacksProject.cpp
+  THIS_IS_THE_PROJECT.cpp
+c1xx : fatal error C1083: Cannot open source file: 'StacksProject.cpp': No such file or directory
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(266,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(277,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(316,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(388,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(418,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(428,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(455,30): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(107,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(105): message : while compiling class template member function 'void StackForCS2420<int>::popThirdFromTop(void)'
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(365): message : see reference to function template instantiation 'void StackForCS2420<int>::popThirdFromTop(void)' being compiled
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(229): message : see reference to class template instantiation 'StackForCS2420<int>' being compiled
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(127,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(119): message : while compiling class template member function 'void StackForCS2420<int>::pushTwoUnderTop(const T &)'
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(119): message :         with
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(119): message :         [
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(119): message :             T=int
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(119): message :         ]
+  Generating Code...
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(403): message : see reference to function template instantiation 'void StackForCS2420<int>::pushTwoUnderTop(const T &)' being compiled
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(403): message :         with
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(403): message :         [
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(403): message :             T=int
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment1Stacks\StacksProject\THIS_IS_THE_PROJECT.cpp(403): message :         ]

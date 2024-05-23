@@ -1,0 +1,6 @@
+﻿  QueuesProject.cpp
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment2Queues\QueuesProject\QueuesProject.cpp(290,36): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment2Queues\QueuesProject\QueuesProject.cpp(299,36): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment2Queues\QueuesProject\QueuesProject.cpp(339,36): warning C4101: 'oor': unreferenced local variable
+C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment2Queues\QueuesProject\QueuesProject.cpp(369,36): warning C4101: 'oor': unreferenced local variable
+  QueuesProject.vcxproj -> C:\Users\omgac\Documents\School\weber-state\Fall 2021\CS2420_FALL_2021\Assignment2Queues\QueuesProject\Debug\QueuesProject.exe
